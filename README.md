@@ -1,0 +1,1 @@
+Projeto individual, feito no 1° semestre no curso de desenvolvimento de sistemas, o projeto é um jogo da velha feito totalmente em PORTUGOL, caso queira ver o mesmo funcionando bastar rodar no VISUALG.
